@@ -1,17 +1,17 @@
 {
-  "name": "stoker",
+  "name": "@rujealfon/stoker",
   "type": "module",
   "version": "1.4.2",
   "packageManager": "pnpm@9.14.2",
   "description": "Utilities for hono and @hono/zod-openapi",
   "author": "w3cj <cj@null.computer>",
   "license": "MIT",
-  "homepage": "https://github.com/w3cj/stoker",
+  "homepage": "https://github.com/rujealfon/stoker",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/w3cj/stoker.git"
+    "url": "git+https://github.com/rujealfon/stoker.git"
   },
-  "bugs": "https://github.com/w3cj/stoker/issues",
+  "bugs": "https://github.com/rujealfon/stoker/issues",
   "keywords": [
     "hono",
     "@hono/zod-openapi",
